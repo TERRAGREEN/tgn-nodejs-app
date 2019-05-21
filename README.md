@@ -13,7 +13,7 @@
 To use Terragreen API, user will need to obtain API key and secret key, which are passed to TerraGreen API with every request. API keys can be generated in the TerraGreen BlockChain Portal, under section 'API KEYS'. Direct link to API key creation panel: [Get API Key]
 
 
-## Steps to obtain API Key and Secrat key:
+## Steps to obtain API Key and Secret key:
 
 
 * Create account at BlockChain portal. [Create Account]
