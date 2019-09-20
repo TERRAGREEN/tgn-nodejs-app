@@ -1,11 +1,30 @@
 {
-  "name": "tgn-node-app",
-  "version": "1.0.0",
-  "description": "Terragreen Node Application",
-  "main": "config.js",
-  "directories": {
-    "example": "examples"
+  "_from": "tgn-node-app",
+  "_id": "tgn-node-app@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-uXQR6mKg1mnQHAxDxtbNqM+Eb3qUN7B4UE5FmXGExlsZccwFOp15L3NsqW/Wi9Yq92VnTU1JN8d6qaEVxDQUoQ==",
+  "_location": "/tgn-node-app",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tgn-node-app",
+    "name": "tgn-node-app",
+    "escapedName": "tgn-node-app",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tgn-node-app/-/tgn-node-app-1.0.0.tgz",
+  "_shasum": "bd7f9978d9df9767b97e8d05aa8a08778c401fd6",
+  "_spec": "tgn-node-app",
+  "_where": "D:\\xampp\\htdocs\\demo",
+  "author": "",
+  "bundleDependencies": false,
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "express": "^4.17.0",
@@ -17,10 +36,17 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
+  "deprecated": false,
+  "description": "Terragreen Node Application",
   "devDependencies": {},
+  "directories": {
+    "example": "examples"
+  },
+  "license": "ISC",
+  "main": "config.js",
+  "name": "tgn-node-app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "version": "1.0.4"
 }
