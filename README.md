@@ -129,6 +129,15 @@ app_tgn._VerifyPaymentStatus(receive_address,function(results){
 	console.log(results);
 });
 ```
+### Transaction List By Address
+
+Get Transaction List By Address.
+```sh
+app_tgn._GetTransactionListByAddress(walletaddress,startingIndex,endingIndexfunction(results){
+	console.log(results);
+});
+```
+
 # Wallet
 ### Create Wallet
 
@@ -164,14 +173,7 @@ app_tgn._AddressBalance(walletaddress,function(results){
 });
 ```
 
-### Transaction List By Address
 
-Get Transaction List By Address.
-```sh
-app_tgn._GetTransactionListByAddress(walletaddress,startingIndex,endingIndexfunction(results){
-	console.log(results);
-});
-```
 
 
 
